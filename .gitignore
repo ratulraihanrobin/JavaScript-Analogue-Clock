@@ -1,0 +1,13 @@
+.DS.store
+*.zip
+*.log
+*.log.[0-9]
+*.mp4
+filename.ext
+/logs/
+!importantFile.txt
+node_modules/
+*.swp
+*.class
+*.txt
+logs/*.log
